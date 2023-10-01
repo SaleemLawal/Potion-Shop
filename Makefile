@@ -1,10 +1,13 @@
 CXX = g++
 CXXFLAGS = -Wall
 
-proj2: 	Shop.o Game.o Ingredient.h main.cpp
-	$(CXX) $(CXXFLAGS) Shop.o Ingredient.h Game.o main.cpp -o proj2
+main: 	Shop.o Game.o main.o
+	$(CXX) $(CXXFLAGS) Shop.o Game.o main.o -o main
 
-Game.o: Shop.o Ingredient.h Game.cpp Game.h
+main.o: main.cpp Ingredient.h
+	$(CXX) $(CXXFLAGS) -c main.cpp
+
+Game.o: Ingredient.h Game.cpp Game.h
 	$(CXX) $(CXXFLAGS) -c Game.cpp
 
 Shop.o: Shop.h Shop.cpp Ingredient.h
@@ -15,4 +18,4 @@ clean:
 	rm *~ 
 
 run:
-	./proj2
+	./main
