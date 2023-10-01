@@ -1,0 +1,32 @@
+Firebell,natural,none,none
+Waterbloom,natural,none,none
+Terraria,natural,none,none
+Windbloom,natural,none,none
+Mad Mushroom,natural,none,none
+Witch's Mushroom,natural,none,none
+Thunder Thistle,natural,none,none
+Lifeleaf,natural,none,none
+Bloodthorn,natural,none,none
+Featherbloom,natural,none,none
+Healing,potion,Waterbloom,Terraria
+Poison,potion,Terraria,Firebell
+Frost,potion,Waterbloom,Waterbloom
+Fire,potion,Firebell,Firebell
+Explosion,potion,Mad Mushroom,Mad Mushroom
+Swiftness,potion,Windbloom,Windbloom
+Mana,potion,Witch's Mushroom,Witch's Mushroom
+Lightning,potion,Thunder Thistle,Windbloom
+Strength,potion,Terraria,Terraria
+Stone Skin,potion,Firebell,Waterbloom
+Sleep,potion,Lifeleaf,Waterbloom
+Dexterity,potion,Waterbloom,Windbloom
+Light,potion,Windbloom,Firebell
+Rage,potion,Bloodthorn,Featherbloom
+Charm,potion,Mad Mushroom,Windbloom
+Levitation,potion,Mad Mushroom,Witch's Mushroom
+Invisibility,potion,Witch's Mushroom,Windbloom
+Nigredo,reagent,Poison,Stone Skin
+Albedo,reagent,Nigredo,Frost
+Citrinitas,reagent,Albedo,Fire
+Rubedo,reagent,Citrinitas,Healing
+Philosopher's Stone,legendary,Rubedo,Invisibility

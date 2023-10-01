@@ -1,0 +1,510 @@
+
+What is the name of your Shop?
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+1
+
+1. Firebell 0
+2. Waterbloom 0
+3. Terraria 0
+4. Windbloom 0
+5. Mad Mushroom 0
+6. Witch's Mushroom 0
+7. Thunder Thistle 0
+8. Lifeleaf 0
+9. Bloodthorn 0
+10. Featherbloom 0
+11. Healing 0
+12. Poison 0
+13. Frost 0
+14. Fire 0
+15. Explosion 0
+16. Swiftness 0
+17. Mana 0
+18. Lightning 0
+19. Strength 0
+20. Stone Skin 0
+21. Sleep 0
+22. Dexterity 0
+23. Light 0
+24. Rage 0
+25. Charm 0
+26. Levitation 0
+27. Invisibility 0
+28. Nigredo 0
+29. Albedo 0
+30. Citrinitas 0
+31. Rubedo 0
+32. Philosopher's Stone 0
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+2
+Terraria Found!
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+2
+Terraria Found!
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+2
+Mad Mushroom Found!
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+2
+Windbloom Found!
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+2
+Firebell Found!
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+2
+Bloodthorn Found!
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+2
+Mad Mushroom Found!
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+2
+Lifeleaf Found!
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+2
+Thunder Thistle Found!
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+2
+Featherbloom Found!
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+2
+Terraria Found!
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+2
+Witch's Mushroom Found!
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+2
+Thunder Thistle Found!
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+2
+Featherbloom Found!
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+2
+Waterbloom Found!
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+2
+Waterbloom Found!
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+2
+Witch's Mushroom Found!
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+2
+Thunder Thistle Found!
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+2
+Firebell Found!
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+2
+Waterbloom Found!
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+2
+Windbloom Found!
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+2
+Featherbloom Found!
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+2
+Firebell Found!
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+2
+Mad Mushroom Found!
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+2
+Mad Mushroom Found!
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+2
+Firebell Found!
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+2
+Firebell Found!
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+2
+Thunder Thistle Found!
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+2
+Mad Mushroom Found!
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+2
+Firebell Found!
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+4
+
+***The Potion Shop***
+Owned by: JD
+There are 32 available products.
+This shop has 10 products in stock.
+Which is 31.25%
+Shop Rank: D
+*********************
+
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+3
+
+Which ingredients would you like to merge?
+To list known ingredients enter -1
+Which ingredients would you like to merge?
+To list known ingredients enter -1
+Firebell combined with Waterbloom to make Stone Skin!
+You have made Stone Skin for your shop.
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+3
+Which ingredients would you like to merge?
+To list known ingredients enter -1
+Which ingredients would you like to merge?
+To list known ingredients enter -1
+Firebell combined with Firebell to make Fire!
+You have made Fire for your shop.
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+3
+Which ingredients would you like to merge?
+To list known ingredients enter -1
+Which ingredients would you like to merge?
+To list known ingredients enter -1
+Nothing happened when you tried to combine Waterbloom and Witch's Mushroom
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+2
+Bloodthorn Found!
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+2
+Thunder Thistle Found!
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+3
+Which ingredients would you like to merge?
+To list known ingredients enter -1
+Which ingredients would you like to merge?
+To list known ingredients enter -1
+Waterbloom combined with Terraria to make Healing!
+You have made Healing for your shop.
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+4
+
+***The Potion Shop***
+Owned by: JD
+There are 32 available products.
+This shop has 13 products in stock.
+Which is 40.625%
+Shop Rank: D
+*********************
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+0
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+10
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+3
+Which ingredients would you like to merge?
+To list known ingredients enter -1
+Which ingredients would you like to merge?
+To list known ingredients enter -1
+1. Firebell 3
+2. Waterbloom 1
+3. Terraria 2
+4. Windbloom 2
+5. Mad Mushroom 5
+6. Witch's Mushroom 2
+7. Thunder Thistle 5
+8. Lifeleaf 1
+9. Bloodthorn 2
+10. Featherbloom 3
+11. Healing 1
+12. Poison 0
+13. Frost 0
+14. Fire 1
+15. Explosion 0
+16. Swiftness 0
+17. Mana 0
+18. Lightning 0
+19. Strength 0
+20. Stone Skin 1
+21. Sleep 0
+22. Dexterity 0
+23. Light 0
+24. Rage 0
+25. Charm 0
+26. Levitation 0
+27. Invisibility 0
+28. Nigredo 0
+29. Albedo 0
+30. Citrinitas 0
+31. Rubedo 0
+32. Philosopher's Stone 0
+Which ingredients would you like to merge?
+To list known ingredients enter -1
+Which ingredients would you like to merge?
+To list known ingredients enter -1
+Mad Mushroom combined with Witch's Mushroom to make Levitation!
+You have made Levitation for your shop.
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+4
+
+***The Potion Shop***
+Owned by: JD
+There are 32 available products.
+This shop has 14 products in stock.
+Which is 43.75%
+Shop Rank: D
+*********************
+
+What would you like to do in JD's shop?
+1. Display your Shop's Ingredients
+2. Search for Natural Ingredients
+3. Attempt to Merge Ingredients
+4. See Score
+5. Quit
+5
+Thanks for playing UMBC Potion Craft
